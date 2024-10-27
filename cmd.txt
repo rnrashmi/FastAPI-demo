@@ -1,0 +1,6 @@
+uvicorn Books:app --reload
+
+#sqlite cmd 
+sqlite> .open todos.db
+sqlite> .schema  
+
